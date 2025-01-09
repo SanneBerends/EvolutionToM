@@ -7,7 +7,7 @@ to run must be specified by the user, see the section Running for an explanation
 program can be visualized (see Data processing).
 
 ## Running
-The relevant code is located in the _src/main/java_ folder.
+The relevant code is located in the _src_ folder.
 Java Development Kit version 21 is required to compile and run the code. Furthermore, the simulation uses JFreeChart. 
 The root directory contains a pom.xml file that can be used to use download and use these dependensies. For this, Maven is needed.
 A tutorial on how to install Maven can be found [here](https://www.baeldung.com/install-maven-on-windows-linux-mac).
